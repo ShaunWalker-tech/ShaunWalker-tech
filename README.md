@@ -100,6 +100,6 @@ Building something is one skill; explaining it clearly is another. For each proj
 I'm always happy to talk cloud, Linux, or career paths with others on the same road.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShaunWalker--tech-181717?style=flat&logo=github)](https://github.com/ShaunWalker-tech)
-https://www.linkedin.com/in/shaun-walker-667855349
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaun_Walker-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shaun-walker-667855349)
 
 *Building in public, one lab at a time.* ☁️
