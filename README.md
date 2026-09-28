@@ -54,7 +54,6 @@ Most cloud workloads run on Linux. Understanding how the operating system handle
 | Project | What it shows | Video walkthrough |
 |---|---|---|
 | [**Azure Cloud Labs**](https://github.com/ShaunWalker-tech/Azure-cloud-labs) | Step-by-step Azure labs with architecture diagrams, screenshots, and notes. Starts with a static website on Blob Storage. | 🎬 Coming soon |
-| **Linux Homelab** | Enterprise Linux environment covering LVM, SELinux, firewalld, NFS/AutoFS, Apache, and Podman | 🎬 Coming soon |
 
 ### 🎥 Why the videos?
 
